@@ -1,0 +1,6 @@
+# Project Directories
+dist
+node_modules
+
+# IDE
+.idea
